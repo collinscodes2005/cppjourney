@@ -1,10 +1,6 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
-// Aiwerioghene Adesuwa
-// 21/0561
-//3RD COSC 112 ASSIGNMENT
 int main(){
 
     //vector storing ages of 50 students 
